@@ -1,0 +1,9 @@
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\bin\Debug\DependencyInjection.Dal.dll
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\bin\Debug\DependencyInjection.Dal.pdb
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\bin\Debug\Ninject.dll
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\bin\Debug\Ninject.xml
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\obj\Debug\DependencyInjection.Dal.csprojAssemblyReference.cache
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\obj\Debug\DependencyInjection.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\obj\Debug\DependencyInjection.Dal.csproj.CopyComplete
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\obj\Debug\DependencyInjection.Dal.dll
+C:\Users\Grizel\RiderProjects\DependencyInjection\DependencyInjection.Dal\obj\Debug\DependencyInjection.Dal.pdb

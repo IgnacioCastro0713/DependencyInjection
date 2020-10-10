@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Web", "DependencyInjection.Web\DependencyInjection.Web.csproj", "{001DEA58-FE7D-4077-9251-62E67E1AE14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Dal", "DependencyInjection.Dal\DependencyInjection.Dal.csproj", "{CF858CB9-3FF0-4CD6-805E-7ECFA0936B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.BLL", "DependencyInjection.BLL\DependencyInjection.BLL.csproj", "{044ABDD4-FB60-4B71-A946-8E173DC5300A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001DEA58-FE7D-4077-9251-62E67E1AE14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001DEA58-FE7D-4077-9251-62E67E1AE14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001DEA58-FE7D-4077-9251-62E67E1AE14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001DEA58-FE7D-4077-9251-62E67E1AE14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF858CB9-3FF0-4CD6-805E-7ECFA0936B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF858CB9-3FF0-4CD6-805E-7ECFA0936B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF858CB9-3FF0-4CD6-805E-7ECFA0936B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF858CB9-3FF0-4CD6-805E-7ECFA0936B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044ABDD4-FB60-4B71-A946-8E173DC5300A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044ABDD4-FB60-4B71-A946-8E173DC5300A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044ABDD4-FB60-4B71-A946-8E173DC5300A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044ABDD4-FB60-4B71-A946-8E173DC5300A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
